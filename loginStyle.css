@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(32, 35, 41);
+    color:rgb(88,162,174);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 50px;
+}
+.button{
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: rgb(88,162,174);
+    background-color: rgb(242,185,67);
+    font-family: fantasy;
+    margin-top: 20px;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: auto;
+    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+form{
+    text-align:center;
+}
+input{
+    border-radius: 5px;
+}
+label{
+    padding-right: 100px;
+}
